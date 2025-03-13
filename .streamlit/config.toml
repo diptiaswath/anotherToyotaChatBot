@@ -1,0 +1,10 @@
+[theme]
+primaryColor="grey"
+backgroundColor="white"
+secondaryBackgroundColor="white"
+textColor="grey"
+font="sans serif"
+base="light"
+
+[server]
+maxUploadSize = 200
