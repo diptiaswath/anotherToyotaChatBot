@@ -25,3 +25,5 @@ conda activate chat_bot_env
 pip install -r requirements.txt
 ```
 3. Make a .env with your GROQ_API_KEY
+
+4. Run locally as: ```streamlit run app.py```
