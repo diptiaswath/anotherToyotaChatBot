@@ -10,4 +10,4 @@ conda activate chat_bot_env
 pip install -r requirements.txt
 pip install -e .
 ```
-3. Make a .env and make sure you add your GROQ_API_KEY=<blah>
+3. Make a .env and make sure to add your GROQ_API_KEY
